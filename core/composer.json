@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "hashids/hashids": "^1.0"
+    }
+}
